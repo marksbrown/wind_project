@@ -141,3 +141,5 @@ cython_debug/
 docs/
 data/
 *.zip
+scratchwork.py
+settings.json
